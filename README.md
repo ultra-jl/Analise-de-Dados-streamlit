@@ -8,6 +8,8 @@ A proposta foi transformar um arquivo de vendas em informações estratégicas d
 
 O sistema permite filtrar os dados por mês específico ou visualizar o ano completo.
 
+Link streamlit: https://btkndghatnnjsvwymhbxkv.streamlit.app
+
 ---
 
 ## Tecnologias utilizadas
